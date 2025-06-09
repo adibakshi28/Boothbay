@@ -1,0 +1,4 @@
+# Full binary tree
+Root, L, R
+L, 1, 2
+R, 3, 4

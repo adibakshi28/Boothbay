@@ -1,0 +1,2 @@
+# Single scale, needs weight on one side
+Main, 10, 3

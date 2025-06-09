@@ -1,0 +1,2 @@
+# Single scale, already balanced
+S1, 5, 5
